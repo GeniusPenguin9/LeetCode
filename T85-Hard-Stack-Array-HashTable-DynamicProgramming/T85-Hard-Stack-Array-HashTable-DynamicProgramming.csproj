@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>T85_Hard_Stack_Array_HashTable_DynamicProgramming</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T152-Middle-Array-DynamicProgramming", "T152-Middle-Array-DynamicProgramming.csproj", "{513CB536-83F1-400A-902A-9FFB50BF3D7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{513CB536-83F1-400A-902A-9FFB50BF3D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513CB536-83F1-400A-902A-9FFB50BF3D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513CB536-83F1-400A-902A-9FFB50BF3D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513CB536-83F1-400A-902A-9FFB50BF3D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91E88FB-26FC-4BF2-B166-166A5A462BFB}
+	EndGlobalSection
+EndGlobal
