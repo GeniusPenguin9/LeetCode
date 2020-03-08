@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T322-Middle-DynamicProgramming", "T322-Middle-DynamicProgramming.csproj", "{2BDD76DC-EE9C-4D82-A1BC-60408197E4AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDD76DC-EE9C-4D82-A1BC-60408197E4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDD76DC-EE9C-4D82-A1BC-60408197E4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDD76DC-EE9C-4D82-A1BC-60408197E4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDD76DC-EE9C-4D82-A1BC-60408197E4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4828A896-8C26-4EC5-A5B7-32B6265D3787}
+	EndGlobalSection
+EndGlobal
