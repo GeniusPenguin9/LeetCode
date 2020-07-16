@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T945-Middle-Array", "T945-Middle-Array.csproj", "{DE7C3816-DE84-4056-A3B8-8353F1D88C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE7C3816-DE84-4056-A3B8-8353F1D88C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7C3816-DE84-4056-A3B8-8353F1D88C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7C3816-DE84-4056-A3B8-8353F1D88C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7C3816-DE84-4056-A3B8-8353F1D88C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B4E2D37-B2E7-42AD-9AAC-1F34A7F1B61B}
+	EndGlobalSection
+EndGlobal

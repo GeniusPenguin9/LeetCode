@@ -1,0 +1,4 @@
+﻿  T42-Hard-Stack-Array-TwoPointers.cpp
+C:\Users\Cauly\source\repos\LeetCode\T42-Hard-Stack-Array-TwoPointers\T42-Hard-Stack-Array-TwoPointers.cpp(17,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Cauly\source\repos\LeetCode\T42-Hard-Stack-Array-TwoPointers\T42-Hard-Stack-Array-TwoPointers.cpp(30,27): warning C4018: “<”: 有符号/无符号不匹配
+  T42-Hard-Stack-Array-TwoPointers.vcxproj -> C:\Users\Cauly\source\repos\LeetCode\T42-Hard-Stack-Array-TwoPointers\Debug\T42-Hard-Stack-Array-TwoPointers.exe

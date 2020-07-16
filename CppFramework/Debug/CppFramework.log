@@ -1,0 +1,4 @@
+﻿  CppFramework.cpp
+C:\Users\Cauly\source\repos\LeetCode\CppFramework\CppFramework.cpp(69,28): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Cauly\source\repos\LeetCode\CppFramework\CppFramework.cpp(125,10): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  CppFramework.vcxproj -> C:\Users\Cauly\source\repos\LeetCode\CppFramework\Debug\CppFramework.exe
